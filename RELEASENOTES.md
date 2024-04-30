@@ -22,6 +22,10 @@
 
 Cordova is a static library that enables developers to include the Cordova API in their iOS application projects easily, and also create new Cordova-based iOS application projects through the command-line.
 
+### 7.1.1 (Apr 30, 2024)
+
+* [GH-1](https://github.com/jessyefuster/cordova-ios/pull/1) fix(splashscreen): fix positioning so splash is centered again
+
 ### 7.1.0 (Apr 01, 2024)
 
 **Features:**
